@@ -8,26 +8,26 @@
 
 This is my repository for the 100 day code challenge. My Goals are
 - [ ] Have strong knowledge of AI, ML and CV basics
-- [ ] Be able to implement these areas in robotics 
+- [ ] Be able to implement these areas in my projects 
 - [ ] Have confidence to talk about these subjects
 - [ ] Learn a little about in Deep Learning
 
 Top Repositories
-- [Machine Learning](https://github.com/Clalloures/Machine-Learning)
-- [Computer-Vision](https://github.com/Clalloures/Computer-Vision)
-- [Robotics-with-Python](https://github.com/Clalloures/Robotics-with-Python)
+- [Machine Learning]()
+- [Computer-Vision]()
+- [Robotics-with-Python]()
 - [Data Science]()
 
 
-<!--
+
 My subprojects:
+- [Eye gaze tracker mouse](https://github.com/brunorchaves/eye_gaze_mouse)
+- [Myo hand gesture classifier]()
+- [Recomendation system]()
+- [Head gesture classifier]()
 - [ ]
 - [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
--->
+
 <!--
 You can see more about them in:
 - [ ](./Pasta)
@@ -39,18 +39,18 @@ Início Fevereiro 09 - 2022
 
 |Dia|O que estudei | Falar sobre |Tempo |
 |------|------|------|-------|
-| 01 |  || 1h |
-| 02 |  || 1h  |
-| 03 |  || 5h |
-| 04 |  | | 2h |
-| 05 |  | | 2h |
-| 06 |  | | 2h |
-| 07 |  | | 2h |
-| 08 |  | | 2h |
-| 09 || | 2h |
-| 10 |  | | 2h |
-| 11 |  | |  1h|
-| 12 | | |  2h|
+| 01 | Curso kaggle - intro to machine learning || 1h |
+| 02 | Curso kaggle - intro to machine learning|| 1h  |
+| 03 | Implementação de exemplo de eye tracker| | 1h |
+| 04 | Implementação de exemplo de rectangle object  measurement (opencv) | | 2h |
+| 05 | Implementação de exemplo de rectangle object  measurement (opencv) | | 1h |
+| 06 |  | |  |
+| 07 |  | |  |
+| 08 |  | |  |
+| 09 || |  |
+| 10 |  | |  |
+| 11 |  | |  |
+| 12 | | |  |
 | 13 |  | |  |
 | 14 |  | |  |
 | 15 |   | |  |
@@ -148,9 +148,9 @@ Início Fevereiro 09 - 2022
 
 
 
-[Jupyter Notebooks]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
-[Calendar]: https://docs.google.com/spreadsheets/d/1G46MEMqWo8aM0B_8Ckx0OTZpRgZufIcm_9aYsYFBJZ4/edit?usp=sharing
-[Informes]: #informes
+[Jupyter Notebooks]: 
+[Calendar]:
+[Informes]: 
 [Bibliografia]: #bibliografia
 [Study Material]: #material
-[Listas]: https://drive.google.com/drive/folders/1BQV0u2NCllvFaDIy7qWS9I5YhUTyH9td?usp=sharing
+[Listas]: 
