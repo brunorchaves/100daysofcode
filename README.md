@@ -1,14 +1,56 @@
-ng Machine Learning Powered Applications |  | 3h |
-| 03 | Leitura livro Building Machine Learning Powered Applications|  | 5h |
-| 04 |  Projeto Visão Computacional - Desenho| | 2h |
-| 05 |  Cap curso de Introdução a ML semana 3| | 2h |
-| 06 |  Cap curso de Introdução a ML semana 3| | 2h |
-| 07 |  Cap curso de Introdução a ML semana 4| | 2h |
-| 08 |  Cap curso de Introdução a ML semana 4| | 2h |
-| 09 | Cap curso de Introdução a ML semana 5| | 2h |
-| 10 |  Cap curso de Introdução a ML semana 6| | 2h |
-| 11 |  Digital Image Processing Cap 1| |  1h|
-| 12 |  Digital Image Processing Cap 1| |  2h|
+# 100 days of code :octocat:
+
+<!--
+| [Jupyter Notebooks] | [Study Material] | [Calendar] | [Informes] | [Listas] | [Bibliografia] |
+|----------|------------|--------------|------------|----------|----------------|
+- - -
+-->
+
+This is my repository for the 100 day code challenge. My Goals are
+- [ ] Have strong knowledge of AI, ML and CV basics
+- [ ] Be able to implement these areas in robotics 
+- [ ] Have confidence to talk about these subjects
+- [ ] Learn a little about in Deep Learning
+
+Top Repositories
+- [Machine Learning](https://github.com/Clalloures/Machine-Learning)
+- [Computer-Vision](https://github.com/Clalloures/Computer-Vision)
+- [Robotics-with-Python](https://github.com/Clalloures/Robotics-with-Python)
+- [Data Science]()
+
+
+<!--
+My subprojects:
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+-->
+<!--
+You can see more about them in:
+- [ ](./Pasta)
+- [ ]
+-->
+
+Início Fevereiro 09 - 2022
+
+
+|Dia|O que estudei | Falar sobre |Tempo |
+|------|------|------|-------|
+| 01 |  || 1h |
+| 02 |  || 1h  |
+| 03 |  || 5h |
+| 04 |  | | 2h |
+| 05 |  | | 2h |
+| 06 |  | | 2h |
+| 07 |  | | 2h |
+| 08 |  | | 2h |
+| 09 || | 2h |
+| 10 |  | | 2h |
+| 11 |  | |  1h|
+| 12 | | |  2h|
 | 13 |  | |  |
 | 14 |  | |  |
 | 15 |   | |  |
