@@ -14,7 +14,7 @@ This is my repository for the 100 day code challenge. My Goals are
 
 Top Repositories
 - [Machine Learning]()
-- [Computer-Vision]()
+- [Computer-Vision](https://github.com/brunorchaves/Computer-Vision)
 - [Robotics-with-Python]()
 - [Data Science]()
 
@@ -44,7 +44,7 @@ Início Fevereiro 09 - 2022
 | 03 | Implementação de exemplo de eye tracker| | 1h |
 | 04 | Implementação de exemplo de rectangle object  measurement (opencv) | | 2h |
 | 05 | Implementação de exemplo de rectangle object  measurement (opencv) | | 1h |
-| 06 |  | |  |
+| 06 |  I started my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of it | | 1h |
 | 07 |  | |  |
 | 08 |  | |  |
 | 09 || |  |
@@ -149,8 +149,7 @@ Início Fevereiro 09 - 2022
 
 
 [Jupyter Notebooks]: 
-[Calendar]:
-[Informes]: 
-[Bibliografia]: #bibliografia
+[Calendar]: 
+[Bibliografia]:   "Programming Computer Vision with Python" by Jan Erik Solem
 [Study Material]: #material
 [Listas]: 
