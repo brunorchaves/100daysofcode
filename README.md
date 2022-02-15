@@ -1,4 +1,4 @@
-# 100 days of code :octocat:
+# 100 days of code - Machine learning and computer vision
 
 <!--
 | [Jupyter Notebooks] | [Study Material] | [Calendar] | [Informes] | [Listas] | [Bibliografia] |
