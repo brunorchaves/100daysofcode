@@ -141,11 +141,11 @@ Beginning at Feb 09 - 2022
 | 100 |  |  |  |
 
 ## Materials :
- [ ]  Course - https://developers.google.com/machine-learning/crash-course/ml-intro
- [ ] All Kaggle courses - https://www.kaggle.com/learn
+-[ ]  Course - https://developers.google.com/machine-learning/crash-course/ml-intro
+-[ ] All Kaggle courses - https://www.kaggle.com/learn
 ## Bibliography:
-[ ] "Programming Computer Vision with Python" by Jan Erik Solem
-[ ] "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems" by Aurélien Géron
+-[ ] "Programming Computer Vision with Python" by Jan Erik Solem
+-[ ] "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems" by Aurélien Géron
 
 
 
