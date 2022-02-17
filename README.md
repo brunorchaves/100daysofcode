@@ -45,7 +45,7 @@ Início Fevereiro 09 - 2022
 | 04 | Implementação de exemplo de rectangle object  measurement (opencv) | | 2h |
 | 05 | Implementação de exemplo de rectangle object  measurement (opencv) | | 1h |
 | 06 |  I started my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of it | | 1h |
-| 07 |  | |  |
+| 07 |  I continued my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of image filters with scipy | |1h  |
 | 08 |  | |  |
 | 09 || |  |
 | 10 |  | |  |
