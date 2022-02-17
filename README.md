@@ -34,16 +34,16 @@ You can see more about them in:
 - [ ]
 -->
 
-Início Fevereiro 09 - 2022
+Beginning at Feb 09 - 2022
 
 
-|Dia|O que estudei | Falar sobre |Tempo |
+|Day|What I studied | Talk about |Time |
 |------|------|------|-------|
-| 01 | Curso kaggle - intro to machine learning || 1h |
-| 02 | Curso kaggle - intro to machine learning|| 1h  |
+| 01 | Kaggle Course - intro to machine learning || 1h |
+| 02 | Kaggle Course - intro to machine learning|| 1h  |
 | 03 | Implementação de exemplo de eye tracker| | 1h |
-| 04 | Implementação de exemplo de rectangle object  measurement (opencv) | | 2h |
-| 05 | Implementação de exemplo de rectangle object  measurement (opencv) | | 1h |
+| 04 | Implemetation of exemple of rectangle object  measurement (opencv) | | 2h |
+| 05 | Implemetation of exemple of rectangle object  measurement (opencv) | | 1h |
 | 06 |  I started my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of it | | 1h |
 | 07 |  I continued my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of image filters with scipy | |1h  |
 | 08 |  | |  |
@@ -140,11 +140,12 @@ Início Fevereiro 09 - 2022
 | 99 |  |  |  |
 | 100 |  |  |  |
 
-## Material
-
-## Bibliografia
-
-## informes
+## Materials :
+ [ ]  Course - https://developers.google.com/machine-learning/crash-course/ml-intro
+ [ ] All Kaggle courses - https://www.kaggle.com/learn
+## Bibliography:
+[ ] "Programming Computer Vision with Python" by Jan Erik Solem
+[ ] "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems" by Aurélien Géron
 
 
 
