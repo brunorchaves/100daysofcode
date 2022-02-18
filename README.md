@@ -152,6 +152,5 @@ Beginning at Feb 09 - 2022
 
 [Jupyter Notebooks]: 
 [Calendar]: 
-[Bibliografia]:   "Programming Computer Vision with Python" by Jan Erik Solem
 [Study Material]: #material
 [Listas]: 
