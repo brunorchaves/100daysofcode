@@ -46,7 +46,7 @@ Beginning at Feb 09 - 2022
 | 05 | Implemetation of exemple of rectangle object  measurement (opencv) | | 1h |
 | 06 |  I started my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of it | | 1h |
 | 07 |  I continued my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of image filters with scipy | |1h  |
-| 08 |  | |  |
+| 08 | Kaggle Course - intro to deep learning, reading of the ML book| | |2h  |
 | 09 || |  |
 | 10 |  | |  |
 | 11 |  | |  |
@@ -141,11 +141,12 @@ Beginning at Feb 09 - 2022
 | 100 |  |  |  |
 
 ## Materials :
--[ ]  Course - https://developers.google.com/machine-learning/crash-course/ml-intro
--[ ] All Kaggle courses - https://www.kaggle.com/learn
+- [ ]  Course - https://developers.google.com/machine-learning/crash-course/ml-intro
+- [ ] All Kaggle courses - https://www.kaggle.com/learn
+
 ## Bibliography:
--[ ] "Programming Computer Vision with Python" by Jan Erik Solem
--[ ] "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems" by Aurélien Géron
+- [ ] "Programming Computer Vision with Python" by Jan Erik Solem
+- [ ] "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems" by Aurélien Géron
 
 
 
