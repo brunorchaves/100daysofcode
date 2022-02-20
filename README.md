@@ -22,7 +22,7 @@ Top Repositories
 
 My subprojects:
 - [Eye gaze tracker mouse](https://github.com/brunorchaves/eye_gaze_mouse)
-- [Myo hand gesture classifier]()
+- [Myo hand gesture classifier](https://github.com/brunorchaves/myo_predictor)
 - [Recomendation system]()
 - [Head gesture classifier]()
 - [ ]
@@ -49,7 +49,7 @@ Beginning at Feb 09 - 2022
 | 08 | Kaggle Course - intro to deep learning, reading of the ML book| | |2h  |
 | 09 || |  |
 | 10 |  | |  |
-| 11 |  | |  |
+| 11 | I started my project of hand gestures classification with Myo armband and python | | 2h |
 | 12 | | |  |
 | 13 |  | |  |
 | 14 |  | |  |
