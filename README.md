@@ -47,9 +47,9 @@ Beginning at Feb 09 - 2022
 | 06 |  I started my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of it | | 1h |
 | 07 |  I continued my studies with the book "Programming Computer Vision with Python" by Jan Erik Solem , and ran some examples of image filters with scipy | |1h  |
 | 08 | Kaggle Course - intro to deep learning, reading of the ML book| | |2h  |
-| 09 || |  |
-| 10 |  | |  |
-| 11 | I started my project of hand gestures classification with Myo armband and python | | 2h |
+| 09 ||Kaggle Course - intro to deep learning | 1h |
+| 10 | Kaggle Course - intro to deep learning, reading of the ML book | |2h  |
+| 11 | I started my project of hand gestures classification with Myo armband and python | | 5h |
 | 12 | | |  |
 | 13 |  | |  |
 | 14 |  | |  |
