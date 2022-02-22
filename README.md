@@ -25,7 +25,7 @@ My subprojects:
 - [Myo hand gesture classifier](https://github.com/brunorchaves/myo_predictor)
 - [Recomendation system]()
 - [Head gesture classifier]()
-- [ ]
+- [Text suggestion]()
 - [ ]
 
 <!--
